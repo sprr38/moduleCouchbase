@@ -1,0 +1,15 @@
+{
+  "name": "samplemodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "couchbase.ts",
+  "dependencies": {
+    "couchbase": "^2.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tsc couchbase.ts"
+  },
+  "author": "Rahul",
+  "license": "ISC"
+}

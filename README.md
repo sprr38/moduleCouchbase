@@ -1,1 +1,1 @@
-# moduleCouchbase
+# My project's README
