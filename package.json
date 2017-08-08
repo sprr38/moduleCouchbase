@@ -1,15 +1,18 @@
 {
-  "name": "samplemodule",
+  "name": "rahul",
   "version": "1.0.0",
   "description": "",
   "main": "couchbase.ts",
   "dependencies": {
-    "couchbase": "^2.3.5"
+    "bindings": "^1.2.1",
+    "couchbase": "^2.3.5",
+    "python-shell": "^0.4.0",
+    "typescript": "^2.4.2"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "tsc couchbase.ts"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rahul",
+  "author": "",
   "license": "ISC"
 }
